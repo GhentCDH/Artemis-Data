@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-18T09:39:30.564Z",
+  "generatedAt": "2026-10-01T11:27:46.119Z",
   "layerId": "PrimitiefKadaster",
   "layerLabel": "Primitief kadaster",
-  "itemCount": 189,
+  "itemCount": 190,
   "items": [
     {
       "id": "422d4f293813d15d",
@@ -1637,6 +1637,23 @@
       "isVerzamelblad": false
     },
     {
+      "id": "9f7d7bd8fbc63067",
+      "type": "iiif-map",
+      "layerId": "PrimitiefKadaster",
+      "label": "Laarne - Sectie B",
+      "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_06379_000",
+      "lon": 3.866056,
+      "lat": 51.035772,
+      "bounds": [
+        3.850198,
+        51.023775,
+        3.881914,
+        51.047769
+      ],
+      "canvasCount": 4,
+      "isVerzamelblad": false
+    },
+    {
       "id": "1ec4caaf973dc450",
       "type": "iiif-map",
       "layerId": "PrimitiefKadaster",
@@ -2679,13 +2696,13 @@
       "layerId": "PrimitiefKadaster",
       "label": "WALEM - Sectie A",
       "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_03017_000",
-      "lon": 4.435548,
-      "lat": 51.068226,
+      "lon": 4.437797,
+      "lat": 51.068105,
       "bounds": [
-        4.420452,
-        51.059019,
-        4.450644,
-        51.077433
+        4.42453,
+        51.059027,
+        4.451064,
+        51.077183
       ],
       "canvasCount": 2,
       "isVerzamelblad": false
