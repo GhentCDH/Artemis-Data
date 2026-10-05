@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T11:57:10.163Z",
+  "generatedAt": "2026-10-05T22:32:52.934Z",
   "layerId": "PrimitiefKadaster",
   "layerLabel": "Primitief kadaster",
   "itemCount": 190,
@@ -1966,10 +1966,10 @@
       "label": "NIEL - Sectie C",
       "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_03055_000",
       "lon": 4.348659,
-      "lat": 51.107327,
+      "lat": 51.107053,
       "bounds": [
         4.343746,
-        51.100936,
+        51.100388,
         4.353572,
         51.113717
       ],
@@ -2782,10 +2782,10 @@
       "label": "Wetteren - Sectie C",
       "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_06777_000",
       "lon": 3.889104,
-      "lat": 51.020675,
+      "lat": 51.019146,
       "bounds": [
         3.868427,
-        51.013978,
+        51.010921,
         3.90978,
         51.027371
       ],
@@ -2867,12 +2867,12 @@
       "label": "Wichelen - Sectie A",
       "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_06788_000",
       "lon": 3.977229,
-      "lat": 51.0114,
+      "lat": 51.01288,
       "bounds": [
         3.956612,
         51.002796,
         3.997845,
-        51.020004
+        51.022964
       ],
       "canvasCount": 2,
       "isVerzamelblad": false
