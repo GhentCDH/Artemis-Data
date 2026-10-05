@@ -75,46 +75,55 @@ async function processManifest(group: SourceGroup, ref: { url: string; label: st
       await extractManifestCanvasAnnotation(manifestAllmapsId, canvasAllmapsId, serviceId, manifestAnnotation).catch(() => null);
     if (!rawAnnotation) continue;
 
-    const georeferencedMap = normalizeAnnotationPage(rawAnnotation);
-    if (!georeferencedMap) continue;
+    // A canvas can carry several georeferenced maps (separately georeferenced
+    // segments of one sheet); each becomes its own geomap, warp and mask.
+    const maps = normalizeAnnotationPage(rawAnnotation);
+    let info: Record<string, unknown> | null | undefined;
+    let spriteAttached = false;
+    for (const [mapIndex, { annotation, georeferencedMap }] of maps.entries()) {
+      const segment = maps.length > 1 ? mapIndex + 1 : undefined;
+      const mapKey = segment ? `${id}#${segment}` : id;
 
-    // Per-canvas analyze detail goes to IIIFWarnings.log; the console gets one
-    // aggregated line per layer (see buildLayerIiif) instead of a warning flood.
-    const analyzed = analyzeAndSanitize(georeferencedMap);
-    if (analyzed.analysis.after.errors.length > 0) {
-      stats.skipped++;
-      await writeAnalysisLog(warningLog, { layerId: group.layer.id, manifestUrl: ref.url, manifestLabel, canvasId: id, canvasAllmapsId, serviceId, analysis: analyzed.analysis, skipped: true });
-      continue;
-    }
-    if (analyzed.analysis.fixes.length > 0) stats.fixed++;
-    if (analyzed.analysis.after.warnings.length > 0) stats.warnings++;
-    await writeAnalysisLog(warningLog, { layerId: group.layer.id, manifestUrl: ref.url, manifestLabel, canvasId: id, canvasAllmapsId, serviceId, analysis: analyzed.analysis, skipped: false });
-
-    const info = pruneInfo(await infoJson(serviceId));
-    const processedCanvas: ProcessedCanvas = { id, canvasAllmapsId, info, georeferencedMap: analyzed.map, serviceId, analysis: analyzed.analysis };
-    const resource = analyzed.map.resource as Record<string, unknown> | undefined;
-    const imageId = String(resource?.id ?? serviceId);
-    const width = Number(info?.width);
-    const height = Number(info?.height);
-    if (Number.isFinite(width) && Number.isFinite(height) && width > 0 && height > 0) {
-      const size = calculateSpriteSize(width, height);
-      try {
-        const buffer = await fetchSprite(serviceId, info!, size, spriteCachePath(group.layer.id, canvasAllmapsId, size));
-        processedCanvas.sprite = { canvasAllmapsId, imageId, fullWidth: width, fullHeight: height, spriteWidth: size.width, spriteHeight: size.height, buffer };
-      } catch {
-        stats.spriteFailed++;
+      // Per-canvas analyze detail goes to IIIFWarnings.log; the console gets one
+      // aggregated line per layer (see buildLayerIiif) instead of a warning flood.
+      const analyzed = analyzeAndSanitize(georeferencedMap);
+      if (analyzed.analysis.after.errors.length > 0) {
+        stats.skipped++;
+        await writeAnalysisLog(warningLog, { layerId: group.layer.id, manifestUrl: ref.url, manifestLabel, canvasId: mapKey, canvasAllmapsId, serviceId, analysis: analyzed.analysis, skipped: true });
+        continue;
       }
-    }
+      if (analyzed.analysis.fixes.length > 0) stats.fixed++;
+      if (analyzed.analysis.after.warnings.length > 0) stats.warnings++;
+      await writeAnalysisLog(warningLog, { layerId: group.layer.id, manifestUrl: ref.url, manifestLabel, canvasId: mapKey, canvasAllmapsId, serviceId, analysis: analyzed.analysis, skipped: false });
 
-    // Warping is deferred to the (gated) raster phase; here we only carry the
-    // inputs and a content signature of the canvas's georeference. Computed for
-    // every build (cheap, metadata-only) so change detection and the live
-    // "changed" counter work even without the raster stage.
-    processedCanvas.imageId = imageId;
-    processedCanvas.manifestUrl = ref.url;
-    processedCanvas.transformationType = annotationTransformationType(rawAnnotation);
-    processedCanvas.warpSig = warpSignature(analyzed.map, processedCanvas.transformationType);
-    processed.push(processedCanvas);
+      info ??= pruneInfo(await infoJson(serviceId));
+      const processedCanvas: ProcessedCanvas = { id, mapKey, segment, canvasAllmapsId, info, georeferencedMap: analyzed.map, serviceId, analysis: analyzed.analysis };
+      const resource = analyzed.map.resource as Record<string, unknown> | undefined;
+      const imageId = String(resource?.id ?? serviceId);
+      const width = Number(info?.width);
+      const height = Number(info?.height);
+      // The sprite is a thumbnail of the whole image, so maps sharing a canvas share one sprite.
+      if (!spriteAttached && Number.isFinite(width) && Number.isFinite(height) && width > 0 && height > 0) {
+        const size = calculateSpriteSize(width, height);
+        try {
+          const buffer = await fetchSprite(serviceId, info!, size, spriteCachePath(group.layer.id, canvasAllmapsId, size));
+          processedCanvas.sprite = { canvasAllmapsId, imageId, fullWidth: width, fullHeight: height, spriteWidth: size.width, spriteHeight: size.height, buffer };
+          spriteAttached = true;
+        } catch {
+          stats.spriteFailed++;
+        }
+      }
+
+      // Warping is deferred to the (gated) raster phase; here we only carry the
+      // inputs and a content signature of the map's georeference. Computed for
+      // every build (cheap, metadata-only) so change detection and the live
+      // "changed" counter work even without the raster stage.
+      processedCanvas.imageId = imageId;
+      processedCanvas.manifestUrl = ref.url;
+      processedCanvas.transformationType = annotationTransformationType(annotation);
+      processedCanvas.warpSig = warpSignature(analyzed.map, processedCanvas.transformationType);
+      processed.push(processedCanvas);
+    }
   }
 
   if (processed.length === 0) return null;
@@ -151,7 +160,7 @@ async function buildLayerIiif(group: SourceGroup, options: IiifBuildOptions, war
     ordered[index] = item;
     for (const canvas of item?.canvases ?? []) {
       seenCanvases++;
-      if (hashes?.prevHash(canvas.id) !== canvas.warpSig) changedCanvases++;
+      if (hashes?.prevHash(canvas.mapKey) !== canvas.warpSig) changedCanvases++;
     }
     done++;
     if (done % step === 0 || done === refs.length) {
@@ -165,7 +174,7 @@ async function buildLayerIiif(group: SourceGroup, options: IiifBuildOptions, war
   // the "canvas" category so it is written even on --no-raster / metadata-only
   // runs; `canvasUnchanged` also drives the raster skip below.
   const canvasEntries: Array<[string, string]> = processed.flatMap((manifest) =>
-    manifest.canvases.flatMap((canvas) => (canvas.warpSig ? [[canvas.id, canvas.warpSig] as [string, string]] : [])),
+    manifest.canvases.flatMap((canvas) => (canvas.warpSig ? [[canvas.mapKey, canvas.warpSig] as [string, string]] : [])),
   );
   const canvasUnchanged = hashes?.categoryUnchanged("canvas", canvasEntries) ?? false;
   log.ok(hadPrevBuild
@@ -255,7 +264,7 @@ async function buildLayerIiif(group: SourceGroup, options: IiifBuildOptions, war
           if (warp.maskFeature) canvas.maskFeature = warp.maskFeature;
         } catch (err) {
           stats.warpFailed++;
-          warpFailures.push({ canvasId: canvas.id, manifestUrl: canvas.manifestUrl, reason: err instanceof Error ? err.message : String(err) });
+          warpFailures.push({ canvasId: canvas.mapKey, manifestUrl: canvas.manifestUrl, reason: err instanceof Error ? err.message : String(err) });
         }
         warpDone++;
         if (warpDone % warpStep === 0 || warpDone === rasterCanvases.length) {

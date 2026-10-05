@@ -61,7 +61,7 @@ export function buildIiifSearchIndex(layerId: string, layerLabel: string, proces
         lat: roundCoordinate((bounds[1] + bounds[3]) / 2),
         bounds,
       } : {}),
-      canvasCount: manifest.canvases.length,
+      canvasCount: new Set(manifest.canvases.map((canvas) => canvas.id)).size,
       isVerzamelblad: manifest.isVerzamelblad,
     };
   });

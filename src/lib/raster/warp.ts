@@ -130,10 +130,9 @@ export function gdalTransformArgs(type: string | undefined): string[] {
   return type === "thinPlateSpline" ? ["-tps"] : ["-order", "1"];
 }
 
-/** Read the georeferencing transformation type from a raw Allmaps annotation page. */
-export function annotationTransformationType(rawAnnotation: Record<string, unknown> | null): string | undefined {
-  const items = Array.isArray(rawAnnotation?.items) ? rawAnnotation!.items as Array<Record<string, unknown>> : [];
-  const body = items[0]?.body as Record<string, unknown> | undefined;
+/** Transformation type declared on a single georeference annotation (one map). */
+export function annotationTransformationType(annotation: Record<string, unknown> | null): string | undefined {
+  const body = annotation?.body as Record<string, unknown> | undefined;
   const transformation = body?.transformation as Record<string, unknown> | undefined;
   const type = transformation?.type;
   return typeof type === "string" ? type : undefined;

@@ -41,8 +41,13 @@ export type ProcessedManifest = {
   canvases: ProcessedCanvas[];
 };
 
+/** One georeferenced map on a canvas; a canvas with several maps yields several entries. */
 export type ProcessedCanvas = {
   id: string;
+  /** Unique per georeferenced map: the canvas id, suffixed `#<n>` when the canvas has several maps. */
+  mapKey: string;
+  /** 1-based map number on its canvas; only set when the canvas has several maps. */
+  segment?: number;
   canvasAllmapsId: string;
   info: Record<string, unknown> | null;
   georeferencedMap: Record<string, unknown>;

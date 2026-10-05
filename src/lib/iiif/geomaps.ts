@@ -86,7 +86,11 @@ export function buildCompactGeomaps(layerId: string, processed: ProcessedManifes
   const maps: CompactGeomap[] = [];
 
   for (const manifest of processed) {
-    manifest.canvases.forEach((canvas, canvasIndex) => {
+    // Several maps can share a canvas: number labels by canvas, and keep ids
+    // unique per map with the map's segment number.
+    const canvasIds = [...new Set(manifest.canvases.map((canvas) => canvas.id))];
+    manifest.canvases.forEach((canvas) => {
+      const canvasIndex = canvasIds.indexOf(canvas.id);
       const resource = canvas.georeferencedMap.resource as Record<string, unknown> | undefined;
       const resourceId = String(resource?.id ?? canvas.serviceId ?? "");
       const imageId = base && resourceId.startsWith(base) ? resourceId.slice(base.length) : resourceId;
@@ -98,8 +102,8 @@ export function buildCompactGeomaps(layerId: string, processed: ProcessedManifes
       const overrides = stableJson(entryDefaults) === defaultsKey ? undefined : entryDefaults;
       const resourceMask = flatResourceMask(canvas.georeferencedMap);
       maps.push({
-        id: compactMapId(imageId, manifest, canvasIndex),
-        label: manifest.canvases.length > 1 ? `${manifest.manifestLabel} (${canvasIndex + 1})` : manifest.manifestLabel,
+        id: `${compactMapId(imageId, manifest, canvasIndex)}${canvas.segment ? `#${canvas.segment}` : ""}`,
+        label: canvasIds.length > 1 ? `${manifest.manifestLabel} (${canvasIndex + 1})` : manifest.manifestLabel,
         imageId,
         width,
         height,
