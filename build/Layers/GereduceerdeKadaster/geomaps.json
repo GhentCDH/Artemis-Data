@@ -1,6 +1,6 @@
 {
   "geomapsVersion": 1,
-  "generatedAt": "2026-10-01T11:52:37.203Z",
+  "generatedAt": "2026-10-05T22:27:07.670Z",
   "id": "GereduceerdeKadaster",
   "baseImageUrl": "https://iiif.ghentcdh.ugent.be/iiif/images/",
   "iiifDefaults": {
@@ -55,7 +55,7 @@
   "maps": [
     {
       "id": "gereduceerd_kadaster:Termonde:Appels:Appels_1852",
-      "label": "Appels (1)",
+      "label": "Appels",
       "imageId": "gereduceerd_kadaster:Termonde:Appels:Appels_1852",
       "width": 11200,
       "height": 7518,
@@ -329,7 +329,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Appels:Appels_1852",
-      "label": "Appels (2)",
+      "label": "Appels",
       "imageId": "gereduceerd_kadaster:Termonde:Appels:Appels_1852",
       "width": 11200,
       "height": 7518,
@@ -603,7 +603,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Audeghem:Audeghem_1852",
-      "label": "Audeghem (1)",
+      "label": "Audeghem",
       "imageId": "gereduceerd_kadaster:Termonde:Audeghem:Audeghem_1852",
       "width": 11200,
       "height": 7519,
@@ -951,7 +951,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Audeghem:Audeghem_1852",
-      "label": "Audeghem (2)",
+      "label": "Audeghem",
       "imageId": "gereduceerd_kadaster:Termonde:Audeghem:Audeghem_1852",
       "width": 11200,
       "height": 7519,
@@ -1299,7 +1299,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Baesrode:Baesrode_1852",
-      "label": "Baesrode (1)",
+      "label": "Baesrode",
       "imageId": "gereduceerd_kadaster:Termonde:Baesrode:Baesrode_1852",
       "width": 11200,
       "height": 7540,
@@ -1651,7 +1651,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Baesrode:Baesrode_1852",
-      "label": "Baesrode (2)",
+      "label": "Baesrode",
       "imageId": "gereduceerd_kadaster:Termonde:Baesrode:Baesrode_1852",
       "width": 11200,
       "height": 7540,
@@ -2003,7 +2003,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Berlaere:Berlaere_1852",
-      "label": "Berlaere (1)",
+      "label": "Berlaere",
       "imageId": "gereduceerd_kadaster:Termonde:Berlaere:Berlaere_1852",
       "width": 11200,
       "height": 7501,
@@ -2507,7 +2507,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Berlaere:Berlaere_1852",
-      "label": "Berlaere (2)",
+      "label": "Berlaere",
       "imageId": "gereduceerd_kadaster:Termonde:Berlaere:Berlaere_1852",
       "width": 11200,
       "height": 7501,
@@ -3011,7 +3011,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Buggenhout:Buggenhout_1852",
-      "label": "Buggenhout (1)",
+      "label": "Buggenhout",
       "imageId": "gereduceerd_kadaster:Termonde:Buggenhout:Buggenhout_1852",
       "width": 11200,
       "height": 7513,
@@ -3525,7 +3525,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Buggenhout:Buggenhout_1852",
-      "label": "Buggenhout (2)",
+      "label": "Buggenhout",
       "imageId": "gereduceerd_kadaster:Termonde:Buggenhout:Buggenhout_1852",
       "width": 11200,
       "height": 7513,
@@ -4039,7 +4039,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Calcken:Calcken_1852",
-      "label": "Calcken (1)",
+      "label": "Calcken",
       "imageId": "gereduceerd_kadaster:Termonde:Calcken:Calcken_1852",
       "width": 11200,
       "height": 7567,
@@ -4379,7 +4379,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Calcken:Calcken_1852",
-      "label": "Calcken (2)",
+      "label": "Calcken",
       "imageId": "gereduceerd_kadaster:Termonde:Calcken:Calcken_1852",
       "width": 11200,
       "height": 7567,
@@ -4719,7 +4719,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Cherscamp:Cherscamp_1852_",
-      "label": "Cherscamp (1)",
+      "label": "Cherscamp",
       "imageId": "gereduceerd_kadaster:Termonde:Cherscamp:Cherscamp_1852_",
       "width": 11200,
       "height": 7455,
@@ -5311,7 +5311,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Cherscamp:Cherscamp_1852_",
-      "label": "Cherscamp (2)",
+      "label": "Cherscamp",
       "imageId": "gereduceerd_kadaster:Termonde:Cherscamp:Cherscamp_1852_",
       "width": 11200,
       "height": 7455,
@@ -5903,7 +5903,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Denderbelle:Denderbelle_1852",
-      "label": "Denderbelle (1)",
+      "label": "Denderbelle",
       "imageId": "gereduceerd_kadaster:Termonde:Denderbelle:Denderbelle_1852",
       "width": 11200,
       "height": 7509,
@@ -6287,7 +6287,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Denderbelle:Denderbelle_1852",
-      "label": "Denderbelle (2)",
+      "label": "Denderbelle",
       "imageId": "gereduceerd_kadaster:Termonde:Denderbelle:Denderbelle_1852",
       "width": 11200,
       "height": 7509,
@@ -6671,7 +6671,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Grembergen:Grembergen_1852",
-      "label": "Grembergen (1)",
+      "label": "Grembergen",
       "imageId": "gereduceerd_kadaster:Termonde:Grembergen:Grembergen_1852",
       "width": 11200,
       "height": 7512,
@@ -7059,7 +7059,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Grembergen:Grembergen_1852",
-      "label": "Grembergen (2)",
+      "label": "Grembergen",
       "imageId": "gereduceerd_kadaster:Termonde:Grembergen:Grembergen_1852",
       "width": 11200,
       "height": 7512,
@@ -7447,7 +7447,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Hamme:Hamme_1852",
-      "label": "Hamme (1)",
+      "label": "Hamme",
       "imageId": "gereduceerd_kadaster:Termonde:Hamme:Hamme_1852",
       "width": 11200,
       "height": 7482,
@@ -8473,7 +8473,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Hamme:Hamme_1852",
-      "label": "Hamme (2)",
+      "label": "Hamme",
       "imageId": "gereduceerd_kadaster:Termonde:Hamme:Hamme_1852",
       "width": 11200,
       "height": 7482,
@@ -9499,7 +9499,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Laerne:Laerne_1852",
-      "label": "Laerne (1)",
+      "label": "Laerne",
       "imageId": "gereduceerd_kadaster:Termonde:Laerne:Laerne_1852",
       "width": 11200,
       "height": 7524,
@@ -9863,7 +9863,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Laerne:Laerne_1852",
-      "label": "Laerne (2)",
+      "label": "Laerne",
       "imageId": "gereduceerd_kadaster:Termonde:Laerne:Laerne_1852",
       "width": 11200,
       "height": 7524,
@@ -10227,7 +10227,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Moerzeke:Moerzeke_1852",
-      "label": "Moerzeke (1)",
+      "label": "Moerzeke",
       "imageId": "gereduceerd_kadaster:Termonde:Moerzeke:Moerzeke_1852",
       "width": 11200,
       "height": 7462,
@@ -10603,7 +10603,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Moerzeke:Moerzeke_1852",
-      "label": "Moerzeke (2)",
+      "label": "Moerzeke",
       "imageId": "gereduceerd_kadaster:Termonde:Moerzeke:Moerzeke_1852",
       "width": 11200,
       "height": 7462,
@@ -10979,7 +10979,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Opdorp:Opdorp_1852",
-      "label": "Opdorp (1)",
+      "label": "Opdorp",
       "imageId": "gereduceerd_kadaster:Termonde:Opdorp:Opdorp_1852",
       "width": 11200,
       "height": 7484,
@@ -11235,7 +11235,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Opdorp:Opdorp_1852",
-      "label": "Opdorp (2)",
+      "label": "Opdorp",
       "imageId": "gereduceerd_kadaster:Termonde:Opdorp:Opdorp_1852",
       "width": 11200,
       "height": 7484,
@@ -11491,7 +11491,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Overmeire:Overmeire_1852",
-      "label": "Overmeire (1)",
+      "label": "Overmeire",
       "imageId": "gereduceerd_kadaster:Termonde:Overmeire:Overmeire_1852",
       "width": 11200,
       "height": 7489,
@@ -11755,7 +11755,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Overmeire:Overmeire_1852",
-      "label": "Overmeire (2)",
+      "label": "Overmeire",
       "imageId": "gereduceerd_kadaster:Termonde:Overmeire:Overmeire_1852",
       "width": 11200,
       "height": 7489,
@@ -12019,7 +12019,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Schellebelle:Schellebelle_1852",
-      "label": "Schellebelle (1)",
+      "label": "Schellebelle",
       "imageId": "gereduceerd_kadaster:Termonde:Schellebelle:Schellebelle_1852",
       "width": 11200,
       "height": 7502,
@@ -12535,7 +12535,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Schellebelle:Schellebelle_1852",
-      "label": "Schellebelle (2)",
+      "label": "Schellebelle",
       "imageId": "gereduceerd_kadaster:Termonde:Schellebelle:Schellebelle_1852",
       "width": 11200,
       "height": 7502,
@@ -13051,7 +13051,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:St_Gilles-lez-Termonde:St_Gilles-lez-Termonde_1852",
-      "label": "St_Gilles-lez-Termonde (1)",
+      "label": "St_Gilles-lez-Termonde",
       "imageId": "gereduceerd_kadaster:Termonde:St_Gilles-lez-Termonde:St_Gilles-lez-Termonde_1852",
       "width": 11200,
       "height": 7537,
@@ -13631,7 +13631,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:St_Gilles-lez-Termonde:St_Gilles-lez-Termonde_1852",
-      "label": "St_Gilles-lez-Termonde (2)",
+      "label": "St_Gilles-lez-Termonde",
       "imageId": "gereduceerd_kadaster:Termonde:St_Gilles-lez-Termonde:St_Gilles-lez-Termonde_1852",
       "width": 11200,
       "height": 7537,
@@ -14211,7 +14211,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Termonde:Termonde_1852",
-      "label": "Termonde (1)",
+      "label": "Termonde",
       "imageId": "gereduceerd_kadaster:Termonde:Termonde:Termonde_1852",
       "width": 11200,
       "height": 7574,
@@ -14731,7 +14731,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Termonde:Termonde_1852",
-      "label": "Termonde (2)",
+      "label": "Termonde",
       "imageId": "gereduceerd_kadaster:Termonde:Termonde:Termonde_1852",
       "width": 11200,
       "height": 7574,
@@ -15251,7 +15251,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Uytbergen:Uytbergen_1852",
-      "label": "Uytbergen (1)",
+      "label": "Uytbergen",
       "imageId": "gereduceerd_kadaster:Termonde:Uytbergen:Uytbergen_1852",
       "width": 11200,
       "height": 7479,
@@ -15643,7 +15643,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Uytbergen:Uytbergen_1852",
-      "label": "Uytbergen (2)",
+      "label": "Uytbergen",
       "imageId": "gereduceerd_kadaster:Termonde:Uytbergen:Uytbergen_1852",
       "width": 11200,
       "height": 7479,
@@ -16035,7 +16035,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Waesmunster:Waesmunster_1852",
-      "label": "Waesmunster (1)",
+      "label": "Waesmunster",
       "imageId": "gereduceerd_kadaster:Termonde:Waesmunster:Waesmunster_1852",
       "width": 11200,
       "height": 7456,
@@ -17001,7 +17001,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Waesmunster:Waesmunster_1852",
-      "label": "Waesmunster (2)",
+      "label": "Waesmunster",
       "imageId": "gereduceerd_kadaster:Termonde:Waesmunster:Waesmunster_1852",
       "width": 11200,
       "height": 7456,
@@ -17967,7 +17967,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Wetteren:Wetteren_1852",
-      "label": "Wetteren (1)",
+      "label": "Wetteren",
       "imageId": "gereduceerd_kadaster:Termonde:Wetteren:Wetteren_1852",
       "width": 11200,
       "height": 7519,
@@ -18943,7 +18943,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Wetteren:Wetteren_1852",
-      "label": "Wetteren (2)",
+      "label": "Wetteren",
       "imageId": "gereduceerd_kadaster:Termonde:Wetteren:Wetteren_1852",
       "width": 11200,
       "height": 7519,
@@ -19919,7 +19919,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Wichelen:Wichelen_1852",
-      "label": "Wichelen (1)",
+      "label": "Wichelen",
       "imageId": "gereduceerd_kadaster:Termonde:Wichelen:Wichelen_1852",
       "width": 11200,
       "height": 7544,
@@ -20515,7 +20515,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Wichelen:Wichelen_1852",
-      "label": "Wichelen (2)",
+      "label": "Wichelen",
       "imageId": "gereduceerd_kadaster:Termonde:Wichelen:Wichelen_1852",
       "width": 11200,
       "height": 7544,
@@ -21111,7 +21111,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Wieze:Wieze_1852",
-      "label": "Wieze (1)",
+      "label": "Wieze",
       "imageId": "gereduceerd_kadaster:Termonde:Wieze:Wieze_1852",
       "width": 11200,
       "height": 7521,
@@ -21507,7 +21507,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Wieze:Wieze_1852",
-      "label": "Wieze (2)",
+      "label": "Wieze",
       "imageId": "gereduceerd_kadaster:Termonde:Wieze:Wieze_1852",
       "width": 11200,
       "height": 7521,
@@ -21903,7 +21903,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Zele:Zele_1852",
-      "label": "Zele (1)",
+      "label": "Zele",
       "imageId": "gereduceerd_kadaster:Termonde:Zele:Zele_1852",
       "width": 11200,
       "height": 7440,
@@ -22593,7 +22593,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Termonde:Zele:Zele_1852",
-      "label": "Zele (2)",
+      "label": "Zele",
       "imageId": "gereduceerd_kadaster:Termonde:Zele:Zele_1852",
       "width": 11200,
       "height": 7440,
@@ -23283,7 +23283,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Aertselaer:Aertselaer_1851",
-      "label": "Aertselaer (1)",
+      "label": "Aertselaer",
       "imageId": "gereduceerd_kadaster:Anvers:Aertselaer:Aertselaer_1851",
       "width": 11200,
       "height": 7542,
@@ -24515,7 +24515,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Aertselaer:Aertselaer_1851",
-      "label": "Aertselaer (2)",
+      "label": "Aertselaer",
       "imageId": "gereduceerd_kadaster:Anvers:Aertselaer:Aertselaer_1851",
       "width": 11200,
       "height": 7542,
@@ -25747,7 +25747,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Anvers:Anvers_1852",
-      "label": "Anvers (1)",
+      "label": "Anvers",
       "imageId": "gereduceerd_kadaster:Anvers:Anvers:Anvers_1852",
       "width": 11200,
       "height": 7474,
@@ -26403,7 +26403,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Anvers:Anvers_1852",
-      "label": "Anvers (2)",
+      "label": "Anvers",
       "imageId": "gereduceerd_kadaster:Anvers:Anvers:Anvers_1852",
       "width": 11200,
       "height": 7474,
@@ -27059,7 +27059,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Austruweel:Austruweel_1851",
-      "label": "Austruweel (1)",
+      "label": "Austruweel",
       "imageId": "gereduceerd_kadaster:Anvers:Austruweel:Austruweel_1851",
       "width": 11200,
       "height": 7257,
@@ -27625,7 +27625,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Austruweel:Austruweel_1851",
-      "label": "Austruweel (2)",
+      "label": "Austruweel",
       "imageId": "gereduceerd_kadaster:Anvers:Austruweel:Austruweel_1851",
       "width": 11200,
       "height": 7257,
@@ -28191,7 +28191,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Beirendrecht:Beirendrecht_1852",
-      "label": "Beirendrecht (1)",
+      "label": "Beirendrecht",
       "imageId": "gereduceerd_kadaster:Anvers:Beirendrecht:Beirendrecht_1852",
       "width": 11200,
       "height": 7536,
@@ -28449,7 +28449,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Beirendrecht:Beirendrecht_1852",
-      "label": "Beirendrecht (2)",
+      "label": "Beirendrecht",
       "imageId": "gereduceerd_kadaster:Anvers:Beirendrecht:Beirendrecht_1852",
       "width": 11200,
       "height": 7536,
@@ -28707,7 +28707,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Berchem:Berchem_1851",
-      "label": "Berchem (1)",
+      "label": "Berchem",
       "imageId": "gereduceerd_kadaster:Anvers:Berchem:Berchem_1851",
       "width": 11200,
       "height": 7244,
@@ -29019,7 +29019,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Berchem:Berchem_1851",
-      "label": "Berchem (2)",
+      "label": "Berchem",
       "imageId": "gereduceerd_kadaster:Anvers:Berchem:Berchem_1851",
       "width": 11200,
       "height": 7244,
@@ -29331,7 +29331,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Boom:Boom_1851",
-      "label": "Boom (1)",
+      "label": "Boom",
       "imageId": "gereduceerd_kadaster:Anvers:Boom:Boom_1851",
       "width": 11200,
       "height": 7549,
@@ -29767,7 +29767,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Boom:Boom_1851",
-      "label": "Boom (2)",
+      "label": "Boom",
       "imageId": "gereduceerd_kadaster:Anvers:Boom:Boom_1851",
       "width": 11200,
       "height": 7549,
@@ -30203,7 +30203,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Borgerhout:Borgerhout_1851",
-      "label": "Borgerhout (1)",
+      "label": "Borgerhout",
       "imageId": "gereduceerd_kadaster:Anvers:Borgerhout:Borgerhout_1851",
       "width": 11200,
       "height": 7380,
@@ -30515,7 +30515,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Borgerhout:Borgerhout_1851",
-      "label": "Borgerhout (2)",
+      "label": "Borgerhout",
       "imageId": "gereduceerd_kadaster:Anvers:Borgerhout:Borgerhout_1851",
       "width": 11200,
       "height": 7380,
@@ -30827,7 +30827,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Borsbeeck:Borsbeeck_1851",
-      "label": "Borsbeeck (1)",
+      "label": "Borsbeeck",
       "imageId": "gereduceerd_kadaster:Anvers:Borsbeeck:Borsbeeck_1851",
       "width": 11200,
       "height": 7531,
@@ -31087,7 +31087,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Borsbeeck:Borsbeeck_1851",
-      "label": "Borsbeeck (2)",
+      "label": "Borsbeeck",
       "imageId": "gereduceerd_kadaster:Anvers:Borsbeeck:Borsbeeck_1851",
       "width": 11200,
       "height": 7531,
@@ -31347,7 +31347,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Bouchout:Bouchout_1851",
-      "label": "Bouchout (1)",
+      "label": "Bouchout",
       "imageId": "gereduceerd_kadaster:Anvers:Bouchout:Bouchout_1851",
       "width": 11200,
       "height": 7477,
@@ -32195,7 +32195,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Bouchout:Bouchout_1851",
-      "label": "Bouchout (2)",
+      "label": "Bouchout",
       "imageId": "gereduceerd_kadaster:Anvers:Bouchout:Bouchout_1851",
       "width": 11200,
       "height": 7477,
@@ -33311,7 +33311,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Brasschaet:Brasschaet_1_2__1851",
-      "label": "Brasschaet (2)",
+      "label": "Brasschaet (1)",
       "imageId": "gereduceerd_kadaster:Anvers:Brasschaet:Brasschaet_1_2__1851",
       "width": 11200,
       "height": 7329,
@@ -33579,7 +33579,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Brasschaet:Brasschaet_2_2__1851",
-      "label": "Brasschaet (3)",
+      "label": "Brasschaet (2)",
       "imageId": "gereduceerd_kadaster:Anvers:Brasschaet:Brasschaet_2_2__1851",
       "width": 11200,
       "height": 7311,
@@ -34287,7 +34287,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Brasschaet:Brasschaet_2_2__1851",
-      "label": "Brasschaet (4)",
+      "label": "Brasschaet (2)",
       "imageId": "gereduceerd_kadaster:Anvers:Brasschaet:Brasschaet_2_2__1851",
       "width": 11200,
       "height": 7311,
@@ -35411,7 +35411,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Brecht:Brecht_1_2__1852",
-      "label": "Brecht (2)",
+      "label": "Brecht (1)",
       "imageId": "gereduceerd_kadaster:Anvers:Brecht:Brecht_1_2__1852",
       "width": 11200,
       "height": 7524,
@@ -35827,7 +35827,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Brecht:Brecht_2_2__1852",
-      "label": "Brecht (3)",
+      "label": "Brecht (2)",
       "imageId": "gereduceerd_kadaster:Anvers:Brecht:Brecht_2_2__1852",
       "width": 11200,
       "height": 7537,
@@ -36169,7 +36169,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Brecht:Brecht_2_2__1852",
-      "label": "Brecht (4)",
+      "label": "Brecht (2)",
       "imageId": "gereduceerd_kadaster:Anvers:Brecht:Brecht_2_2__1852",
       "width": 11200,
       "height": 7537,
@@ -36511,7 +36511,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Broechem:Broechem_1851",
-      "label": "Broechem (1)",
+      "label": "Broechem",
       "imageId": "gereduceerd_kadaster:Anvers:Broechem:Broechem_1851",
       "width": 11200,
       "height": 7494,
@@ -37317,7 +37317,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Broechem:Broechem_1851",
-      "label": "Broechem (2)",
+      "label": "Broechem",
       "imageId": "gereduceerd_kadaster:Anvers:Broechem:Broechem_1851",
       "width": 11200,
       "height": 7494,
@@ -38507,7 +38507,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Calmpthout:Calmpthout_1_3__1852",
-      "label": "Calmpthout (2)",
+      "label": "Calmpthout (1)",
       "imageId": "gereduceerd_kadaster:Anvers:Calmpthout:Calmpthout_1_3__1852",
       "width": 11200,
       "height": 7542,
@@ -38891,7 +38891,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Calmpthout:Calmpthout_2_3__1852",
-      "label": "Calmpthout (3)",
+      "label": "Calmpthout (2)",
       "imageId": "gereduceerd_kadaster:Anvers:Calmpthout:Calmpthout_2_3__1852",
       "width": 11200,
       "height": 7468,
@@ -39257,7 +39257,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Calmpthout:Calmpthout_2_3__1852",
-      "label": "Calmpthout (4)",
+      "label": "Calmpthout (2)",
       "imageId": "gereduceerd_kadaster:Anvers:Calmpthout:Calmpthout_2_3__1852",
       "width": 11200,
       "height": 7468,
@@ -39623,7 +39623,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Calmpthout:Calmpthout_3_3__1852",
-      "label": "Calmpthout (5)",
+      "label": "Calmpthout (3)",
       "imageId": "gereduceerd_kadaster:Anvers:Calmpthout:Calmpthout_3_3__1852",
       "width": 11200,
       "height": 7573,
@@ -40015,7 +40015,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Calmpthout:Calmpthout_3_3__1852",
-      "label": "Calmpthout (6)",
+      "label": "Calmpthout (3)",
       "imageId": "gereduceerd_kadaster:Anvers:Calmpthout:Calmpthout_3_3__1852",
       "width": 11200,
       "height": 7573,
@@ -40407,7 +40407,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Cappellen:Cappellen_1852",
-      "label": "Cappellen (1)",
+      "label": "Cappellen",
       "imageId": "gereduceerd_kadaster:Anvers:Cappellen:Cappellen_1852",
       "width": 11200,
       "height": 7558,
@@ -40813,7 +40813,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Cappellen:Cappellen_1852",
-      "label": "Cappellen (2)",
+      "label": "Cappellen",
       "imageId": "gereduceerd_kadaster:Anvers:Cappellen:Cappellen_1852",
       "width": 11200,
       "height": 7558,
@@ -41219,7 +41219,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Contich:Contich_1851",
-      "label": "Contich (1)",
+      "label": "Contich",
       "imageId": "gereduceerd_kadaster:Anvers:Contich:Contich_1851",
       "width": 11200,
       "height": 7467,
@@ -43223,7 +43223,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Contich:Contich_1851",
-      "label": "Contich (2)",
+      "label": "Contich",
       "imageId": "gereduceerd_kadaster:Anvers:Contich:Contich_1851",
       "width": 11200,
       "height": 7467,
@@ -45227,7 +45227,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Deurne:Deurne_1851",
-      "label": "Deurne (1)",
+      "label": "Deurne",
       "imageId": "gereduceerd_kadaster:Anvers:Deurne:Deurne_1851",
       "width": 11200,
       "height": 7260,
@@ -46283,7 +46283,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Deurne:Deurne_1851",
-      "label": "Deurne (2)",
+      "label": "Deurne",
       "imageId": "gereduceerd_kadaster:Anvers:Deurne:Deurne_1851",
       "width": 11200,
       "height": 7260,
@@ -47339,7 +47339,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Edegem:Edegem_1851",
-      "label": "Edegem (1)",
+      "label": "Edegem",
       "imageId": "gereduceerd_kadaster:Anvers:Edegem:Edegem_1851",
       "width": 11200,
       "height": 7458,
@@ -48013,7 +48013,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Edegem:Edegem_1851",
-      "label": "Edegem (2)",
+      "label": "Edegem",
       "imageId": "gereduceerd_kadaster:Anvers:Edegem:Edegem_1851",
       "width": 11200,
       "height": 7458,
@@ -49441,7 +49441,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Eekeren:Eekeren_1_2__1851",
-      "label": "Eekeren (2)",
+      "label": "Eekeren (1)",
       "imageId": "gereduceerd_kadaster:Anvers:Eekeren:Eekeren_1_2__1851",
       "width": 11200,
       "height": 7307,
@@ -50195,7 +50195,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Eekeren:Eekeren_2_2__1851",
-      "label": "Eekeren (3)",
+      "label": "Eekeren (2)",
       "imageId": "gereduceerd_kadaster:Anvers:Eekeren:Eekeren_2_2__1851",
       "width": 11200,
       "height": 7241,
@@ -50911,7 +50911,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Eekeren:Eekeren_2_2__1851",
-      "label": "Eekeren (4)",
+      "label": "Eekeren (2)",
       "imageId": "gereduceerd_kadaster:Anvers:Eekeren:Eekeren_2_2__1851",
       "width": 11200,
       "height": 7241,
@@ -51627,7 +51627,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Emblehem:Emblehem_1852",
-      "label": "Emblehem (1)",
+      "label": "Emblehem",
       "imageId": "gereduceerd_kadaster:Anvers:Emblehem:Emblehem_1852",
       "width": 11200,
       "height": 7506,
@@ -52195,7 +52195,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Emblehem:Emblehem_1852",
-      "label": "Emblehem (2)",
+      "label": "Emblehem",
       "imageId": "gereduceerd_kadaster:Anvers:Emblehem:Emblehem_1852",
       "width": 11200,
       "height": 7506,
@@ -53059,7 +53059,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Esschen:Esschen_1_2__1852",
-      "label": "Esschen (2)",
+      "label": "Esschen (1)",
       "imageId": "gereduceerd_kadaster:Anvers:Esschen:Esschen_1_2__1852",
       "width": 11200,
       "height": 7524,
@@ -53355,7 +53355,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Esschen:Esschen_2_2__1852",
-      "label": "Esschen (3)",
+      "label": "Esschen (2)",
       "imageId": "gereduceerd_kadaster:Anvers:Esschen:Esschen_2_2__1852",
       "width": 11200,
       "height": 7512,
@@ -53435,7 +53435,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Esschen:Esschen_2_2__1852",
-      "label": "Esschen (4)",
+      "label": "Esschen (2)",
       "imageId": "gereduceerd_kadaster:Anvers:Esschen:Esschen_2_2__1852",
       "width": 11200,
       "height": 7512,
@@ -53515,7 +53515,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Halle:Halle_1851",
-      "label": "Halle (1)",
+      "label": "Halle",
       "imageId": "gereduceerd_kadaster:Anvers:Halle:Halle_1851",
       "width": 11200,
       "height": 7506,
@@ -53845,7 +53845,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Halle:Halle_1851",
-      "label": "Halle (2)",
+      "label": "Halle",
       "imageId": "gereduceerd_kadaster:Anvers:Halle:Halle_1851",
       "width": 11200,
       "height": 7506,
@@ -54175,7 +54175,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Hemixem:Hemixem_1851",
-      "label": "Hemixem (1)",
+      "label": "Hemixem",
       "imageId": "gereduceerd_kadaster:Anvers:Hemixem:Hemixem_1851",
       "width": 11200,
       "height": 7543,
@@ -54559,7 +54559,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Hemixem:Hemixem_1851",
-      "label": "Hemixem (2)",
+      "label": "Hemixem",
       "imageId": "gereduceerd_kadaster:Anvers:Hemixem:Hemixem_1851",
       "width": 11200,
       "height": 7543,
@@ -54943,7 +54943,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Hoboken:Hoboken_1851",
-      "label": "Hoboken (1)",
+      "label": "Hoboken",
       "imageId": "gereduceerd_kadaster:Anvers:Hoboken:Hoboken_1851",
       "width": 11200,
       "height": 7298,
@@ -55387,7 +55387,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Hoboken:Hoboken_1851",
-      "label": "Hoboken (2)",
+      "label": "Hoboken",
       "imageId": "gereduceerd_kadaster:Anvers:Hoboken:Hoboken_1851",
       "width": 11200,
       "height": 7298,
@@ -55831,7 +55831,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Hove:Hove_1851",
-      "label": "Hove (1)",
+      "label": "Hove",
       "imageId": "gereduceerd_kadaster:Anvers:Hove:Hove_1851",
       "width": 11200,
       "height": 7449,
@@ -56199,7 +56199,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Hove:Hove_1851",
-      "label": "Hove (2)",
+      "label": "Hove",
       "imageId": "gereduceerd_kadaster:Anvers:Hove:Hove_1851",
       "width": 11200,
       "height": 7449,
@@ -56567,7 +56567,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Lillo:Lillo_1852",
-      "label": "Lillo (1)",
+      "label": "Lillo",
       "imageId": "gereduceerd_kadaster:Anvers:Lillo:Lillo_1852",
       "width": 11200,
       "height": 7527,
@@ -56823,7 +56823,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Lillo:Lillo_1852",
-      "label": "Lillo (2)",
+      "label": "Lillo",
       "imageId": "gereduceerd_kadaster:Anvers:Lillo:Lillo_1852",
       "width": 11200,
       "height": 7527,
@@ -57079,7 +57079,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Loenhout:Loenhout_1852",
-      "label": "Loenhout (1)",
+      "label": "Loenhout",
       "imageId": "gereduceerd_kadaster:Anvers:Loenhout:Loenhout_1852",
       "width": 11200,
       "height": 7495,
@@ -57615,7 +57615,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Loenhout:Loenhout_1852",
-      "label": "Loenhout (2)",
+      "label": "Loenhout",
       "imageId": "gereduceerd_kadaster:Anvers:Loenhout:Loenhout_1852",
       "width": 11200,
       "height": 7495,
@@ -58151,7 +58151,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Massenhoven:Massenhoven_1852",
-      "label": "Massenhoven (1)",
+      "label": "Massenhoven",
       "imageId": "gereduceerd_kadaster:Anvers:Massenhoven:Massenhoven_1852",
       "width": 11200,
       "height": 7575,
@@ -58513,7 +58513,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Massenhoven:Massenhoven_1852",
-      "label": "Massenhoven (2)",
+      "label": "Massenhoven",
       "imageId": "gereduceerd_kadaster:Anvers:Massenhoven:Massenhoven_1852",
       "width": 11200,
       "height": 7575,
@@ -58875,7 +58875,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Merxem:Merxem_1851",
-      "label": "Merxem (1)",
+      "label": "Merxem",
       "imageId": "gereduceerd_kadaster:Anvers:Merxem:Merxem_1851",
       "width": 11200,
       "height": 7314,
@@ -59403,7 +59403,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Merxem:Merxem_1851",
-      "label": "Merxem (2)",
+      "label": "Merxem",
       "imageId": "gereduceerd_kadaster:Anvers:Merxem:Merxem_1851",
       "width": 11200,
       "height": 7314,
@@ -59931,7 +59931,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Mortsel:Mortsel_1851",
-      "label": "Mortsel (1)",
+      "label": "Mortsel",
       "imageId": "gereduceerd_kadaster:Anvers:Mortsel:Mortsel_1851",
       "width": 11200,
       "height": 7512,
@@ -60261,7 +60261,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Mortsel:Mortsel_1851",
-      "label": "Mortsel (2)",
+      "label": "Mortsel",
       "imageId": "gereduceerd_kadaster:Anvers:Mortsel:Mortsel_1851",
       "width": 11200,
       "height": 7512,
@@ -60591,7 +60591,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Niel:Niel_1851",
-      "label": "Niel (1)",
+      "label": "Niel",
       "imageId": "gereduceerd_kadaster:Anvers:Niel:Niel_1851",
       "width": 11200,
       "height": 7548,
@@ -60995,7 +60995,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Niel:Niel_1851",
-      "label": "Niel (2)",
+      "label": "Niel",
       "imageId": "gereduceerd_kadaster:Anvers:Niel:Niel_1851",
       "width": 11200,
       "height": 7548,
@@ -61399,7 +61399,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Oeleghem:Oeleghem_1852",
-      "label": "Oeleghem (1)",
+      "label": "Oeleghem",
       "imageId": "gereduceerd_kadaster:Anvers:Oeleghem:Oeleghem_1852",
       "width": 11200,
       "height": 7488,
@@ -61857,7 +61857,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Oeleghem:Oeleghem_1852",
-      "label": "Oeleghem (2)",
+      "label": "Oeleghem",
       "imageId": "gereduceerd_kadaster:Anvers:Oeleghem:Oeleghem_1852",
       "width": 11200,
       "height": 7488,
@@ -62315,7 +62315,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Oorderen:Oorderen_1851",
-      "label": "Oorderen (1)",
+      "label": "Oorderen",
       "imageId": "gereduceerd_kadaster:Anvers:Oorderen:Oorderen_1851",
       "width": 11200,
       "height": 7235,
@@ -62519,7 +62519,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Oorderen:Oorderen_1851",
-      "label": "Oorderen (2)",
+      "label": "Oorderen",
       "imageId": "gereduceerd_kadaster:Anvers:Oorderen:Oorderen_1851",
       "width": 11200,
       "height": 7235,
@@ -62723,7 +62723,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Reeth:Reeth_1851",
-      "label": "Reeth (1)",
+      "label": "Reeth",
       "imageId": "gereduceerd_kadaster:Anvers:Reeth:Reeth_1851",
       "width": 11200,
       "height": 7530,
@@ -63067,7 +63067,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Reeth:Reeth_1851",
-      "label": "Reeth (2)",
+      "label": "Reeth",
       "imageId": "gereduceerd_kadaster:Anvers:Reeth:Reeth_1851",
       "width": 11200,
       "height": 7530,
@@ -63411,7 +63411,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Rumpst:Rumpst_1851",
-      "label": "Rumpst (1)",
+      "label": "Rumpst",
       "imageId": "gereduceerd_kadaster:Anvers:Rumpst:Rumpst_1851",
       "width": 11200,
       "height": 7462,
@@ -63815,7 +63815,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Rumpst:Rumpst_1851",
-      "label": "Rumpst (2)",
+      "label": "Rumpst",
       "imageId": "gereduceerd_kadaster:Anvers:Rumpst:Rumpst_1851",
       "width": 11200,
       "height": 7462,
@@ -64219,7 +64219,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:S_Gravenwezel:S_Gravenwezel_1851",
-      "label": "S_Gravenwezel (1)",
+      "label": "S_Gravenwezel",
       "imageId": "gereduceerd_kadaster:Anvers:S_Gravenwezel:S_Gravenwezel_1851",
       "width": 11200,
       "height": 7542,
@@ -64595,7 +64595,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:S_Gravenwezel:S_Gravenwezel_1851",
-      "label": "S_Gravenwezel (2)",
+      "label": "S_Gravenwezel",
       "imageId": "gereduceerd_kadaster:Anvers:S_Gravenwezel:S_Gravenwezel_1851",
       "width": 11200,
       "height": 7542,
@@ -64971,7 +64971,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Santvliet:Santvliet_1852",
-      "label": "Santvliet (1)",
+      "label": "Santvliet",
       "imageId": "gereduceerd_kadaster:Anvers:Santvliet:Santvliet_1852",
       "width": 11200,
       "height": 7470,
@@ -65129,7 +65129,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Santvliet:Santvliet_1852",
-      "label": "Santvliet (2)",
+      "label": "Santvliet",
       "imageId": "gereduceerd_kadaster:Anvers:Santvliet:Santvliet_1852",
       "width": 11200,
       "height": 7470,
@@ -65287,7 +65287,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Schelle:Schelle_1851",
-      "label": "Schelle (1)",
+      "label": "Schelle",
       "imageId": "gereduceerd_kadaster:Anvers:Schelle:Schelle_1851",
       "width": 11200,
       "height": 7275,
@@ -65859,7 +65859,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Schelle:Schelle_1851",
-      "label": "Schelle (2)",
+      "label": "Schelle",
       "imageId": "gereduceerd_kadaster:Anvers:Schelle:Schelle_1851",
       "width": 11200,
       "height": 7275,
@@ -66431,7 +66431,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Schooten:Schooten_1851",
-      "label": "Schooten (1)",
+      "label": "Schooten",
       "imageId": "gereduceerd_kadaster:Anvers:Schooten:Schooten_1851",
       "width": 11200,
       "height": 7507,
@@ -66929,7 +66929,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Schooten:Schooten_1851",
-      "label": "Schooten (2)",
+      "label": "Schooten",
       "imageId": "gereduceerd_kadaster:Anvers:Schooten:Schooten_1851",
       "width": 11200,
       "height": 7507,
@@ -67427,7 +67427,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Stabroek:Stabroek_1852",
-      "label": "Stabroek (1)",
+      "label": "Stabroek",
       "imageId": "gereduceerd_kadaster:Anvers:Stabroek:Stabroek_1852",
       "width": 11200,
       "height": 7461,
@@ -67589,7 +67589,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Stabroek:Stabroek_1852",
-      "label": "Stabroek (2)",
+      "label": "Stabroek",
       "imageId": "gereduceerd_kadaster:Anvers:Stabroek:Stabroek_1852",
       "width": 11200,
       "height": 7461,
@@ -67751,7 +67751,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Waerloos:Waerloos_1851",
-      "label": "Waerloos (1)",
+      "label": "Waerloos",
       "imageId": "gereduceerd_kadaster:Anvers:Waerloos:Waerloos_1851",
       "width": 11200,
       "height": 7507,
@@ -68093,7 +68093,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Waerloos:Waerloos_1851",
-      "label": "Waerloos (2)",
+      "label": "Waerloos",
       "imageId": "gereduceerd_kadaster:Anvers:Waerloos:Waerloos_1851",
       "width": 11200,
       "height": 7507,
@@ -68435,7 +68435,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Wilmarsdonck:Wilmarsdonck_1851",
-      "label": "Wilmarsdonck (1)",
+      "label": "Wilmarsdonck",
       "imageId": "gereduceerd_kadaster:Anvers:Wilmarsdonck:Wilmarsdonck_1851",
       "width": 11200,
       "height": 7211,
@@ -68765,7 +68765,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Wilmarsdonck:Wilmarsdonck_1851",
-      "label": "Wilmarsdonck (2)",
+      "label": "Wilmarsdonck",
       "imageId": "gereduceerd_kadaster:Anvers:Wilmarsdonck:Wilmarsdonck_1851",
       "width": 11200,
       "height": 7211,
@@ -69095,7 +69095,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Wilryck:Wilryck_1851",
-      "label": "Wilryck (1)",
+      "label": "Wilryck",
       "imageId": "gereduceerd_kadaster:Anvers:Wilryck:Wilryck_1851",
       "width": 11200,
       "height": 7257,
@@ -69743,7 +69743,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Wilryck:Wilryck_1851",
-      "label": "Wilryck (2)",
+      "label": "Wilryck",
       "imageId": "gereduceerd_kadaster:Anvers:Wilryck:Wilryck_1851",
       "width": 11200,
       "height": 7257,
@@ -70391,7 +70391,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Wommelghem:Wommelghem_1851",
-      "label": "Wommelghem (1)",
+      "label": "Wommelghem",
       "imageId": "gereduceerd_kadaster:Anvers:Wommelghem:Wommelghem_1851",
       "width": 11200,
       "height": 7534,
@@ -70945,7 +70945,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Anvers:Wommelghem:Wommelghem_1851",
-      "label": "Wommelghem (2)",
+      "label": "Wommelghem",
       "imageId": "gereduceerd_kadaster:Anvers:Wommelghem:Wommelghem_1851",
       "width": 11200,
       "height": 7534,
@@ -71883,7 +71883,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Destelbergen:Destelbergen_1_2__1852",
-      "label": "Destelbergen (2)",
+      "label": "Destelbergen (1)",
       "imageId": "gereduceerd_kadaster:Gand:Destelbergen:Destelbergen_1_2__1852",
       "width": 11200,
       "height": 7521,
@@ -72267,7 +72267,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Destelbergen:Destelbergen_2_2__1852",
-      "label": "Destelbergen (3)",
+      "label": "Destelbergen (2)",
       "imageId": "gereduceerd_kadaster:Gand:Destelbergen:Destelbergen_2_2__1852",
       "width": 11200,
       "height": 7516,
@@ -72493,7 +72493,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Destelbergen:Destelbergen_2_2__1852",
-      "label": "Destelbergen (4)",
+      "label": "Destelbergen (2)",
       "imageId": "gereduceerd_kadaster:Gand:Destelbergen:Destelbergen_2_2__1852",
       "width": 11200,
       "height": 7516,
@@ -72719,7 +72719,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Gand:Gand_1853",
-      "label": "Gand (1)",
+      "label": "Gand",
       "imageId": "gereduceerd_kadaster:Gand:Gand:Gand_1853",
       "width": 13400,
       "height": 7513,
@@ -73219,7 +73219,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Gand:Gand_1853",
-      "label": "Gand (2)",
+      "label": "Gand",
       "imageId": "gereduceerd_kadaster:Gand:Gand:Gand_1853",
       "width": 13400,
       "height": 7513,
@@ -73719,7 +73719,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Gendbrugge:Gendbrugge_1852",
-      "label": "Gendbrugge (1)",
+      "label": "Gendbrugge",
       "imageId": "gereduceerd_kadaster:Gand:Gendbrugge:Gendbrugge_1852",
       "width": 11200,
       "height": 7542,
@@ -74029,7 +74029,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Gendbrugge:Gendbrugge_1852",
-      "label": "Gendbrugge (2)",
+      "label": "Gendbrugge",
       "imageId": "gereduceerd_kadaster:Gand:Gendbrugge:Gendbrugge_1852",
       "width": 11200,
       "height": 7542,
@@ -74339,7 +74339,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Gontrode:Gontrode_1852",
-      "label": "Gontrode (1)",
+      "label": "Gontrode",
       "imageId": "gereduceerd_kadaster:Gand:Gontrode:Gontrode_1852",
       "width": 11200,
       "height": 7560,
@@ -74607,7 +74607,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Gontrode:Gontrode_1852",
-      "label": "Gontrode (2)",
+      "label": "Gontrode",
       "imageId": "gereduceerd_kadaster:Gand:Gontrode:Gontrode_1852",
       "width": 11200,
       "height": 7560,
@@ -74875,7 +74875,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Heusden:Heusden_1852",
-      "label": "Heusden (1)",
+      "label": "Heusden",
       "imageId": "gereduceerd_kadaster:Gand:Heusden:Heusden_1852",
       "width": 11200,
       "height": 7564,
@@ -75461,7 +75461,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Heusden:Heusden_1852",
-      "label": "Heusden (2)",
+      "label": "Heusden",
       "imageId": "gereduceerd_kadaster:Gand:Heusden:Heusden_1852",
       "width": 11200,
       "height": 7564,
@@ -76047,7 +76047,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Ledeberg:Ledeberg_1852",
-      "label": "Ledeberg (1)",
+      "label": "Ledeberg",
       "imageId": "gereduceerd_kadaster:Gand:Ledeberg:Ledeberg_1852",
       "width": 11200,
       "height": 7556,
@@ -76245,7 +76245,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Ledeberg:Ledeberg_1852",
-      "label": "Ledeberg (2)",
+      "label": "Ledeberg",
       "imageId": "gereduceerd_kadaster:Gand:Ledeberg:Ledeberg_1852",
       "width": 11200,
       "height": 7556,
@@ -76443,7 +76443,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Lemberge:Lemberge_1852",
-      "label": "Lemberge (1)",
+      "label": "Lemberge",
       "imageId": "gereduceerd_kadaster:Gand:Lemberge:Lemberge_1852",
       "width": 11200,
       "height": 7566,
@@ -76641,7 +76641,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Lemberge:Lemberge_1852",
-      "label": "Lemberge (2)",
+      "label": "Lemberge",
       "imageId": "gereduceerd_kadaster:Gand:Lemberge:Lemberge_1852",
       "width": 11200,
       "height": 7566,
@@ -76839,7 +76839,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Melle:Melle_1852",
-      "label": "Melle (1)",
+      "label": "Melle",
       "imageId": "gereduceerd_kadaster:Gand:Melle:Melle_1852",
       "width": 11200,
       "height": 7537,
@@ -77395,7 +77395,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Melle:Melle_1852",
-      "label": "Melle (2)",
+      "label": "Melle",
       "imageId": "gereduceerd_kadaster:Gand:Melle:Melle_1852",
       "width": 11200,
       "height": 7537,
@@ -77951,7 +77951,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Oostacker:Oostacker_1852",
-      "label": "Oostacker (1)",
+      "label": "Oostacker",
       "imageId": "gereduceerd_kadaster:Gand:Oostacker:Oostacker_1852",
       "width": 11200,
       "height": 7534,
@@ -78395,7 +78395,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Oostacker:Oostacker_1852",
-      "label": "Oostacker (2)",
+      "label": "Oostacker",
       "imageId": "gereduceerd_kadaster:Gand:Oostacker:Oostacker_1852",
       "width": 11200,
       "height": 7534,
@@ -78839,7 +78839,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Wondelgem:Wondelgem_1853",
-      "label": "Wondelgem (1)",
+      "label": "Wondelgem",
       "imageId": "gereduceerd_kadaster:Gand:Wondelgem:Wondelgem_1853",
       "width": 11200,
       "height": 7535,
@@ -79075,7 +79075,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Gand:Wondelgem:Wondelgem_1853",
-      "label": "Wondelgem (2)",
+      "label": "Wondelgem",
       "imageId": "gereduceerd_kadaster:Gand:Wondelgem:Wondelgem_1853",
       "width": 11200,
       "height": 7535,
@@ -79311,7 +79311,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Basel:Basel_1852",
-      "label": "Basel (1)",
+      "label": "Basel",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Basel:Basel_1852",
       "width": 11200,
       "height": 7468,
@@ -79551,7 +79551,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Basel:Basel_1852",
-      "label": "Basel (2)",
+      "label": "Basel",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Basel:Basel_1852",
       "width": 11200,
       "height": 7468,
@@ -79791,7 +79791,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Beveren:Beveren_1852",
-      "label": "Beveren (1)",
+      "label": "Beveren",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Beveren:Beveren_1852",
       "width": 11200,
       "height": 7486,
@@ -80121,7 +80121,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Beveren:Beveren_1852",
-      "label": "Beveren (2)",
+      "label": "Beveren",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Beveren:Beveren_1852",
       "width": 11200,
       "height": 7486,
@@ -80451,7 +80451,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Burght:Burght_1852",
-      "label": "Burght (1)",
+      "label": "Burght",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Burght:Burght_1852",
       "width": 11200,
       "height": 7512,
@@ -80605,7 +80605,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Burght:Burght_1852",
-      "label": "Burght (2)",
+      "label": "Burght",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Burght:Burght_1852",
       "width": 11200,
       "height": 7512,
@@ -80759,7 +80759,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Calloo:Calloo_1852",
-      "label": "Calloo (1)",
+      "label": "Calloo",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Calloo:Calloo_1852",
       "width": 11200,
       "height": 7392,
@@ -80931,7 +80931,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Calloo:Calloo_1852",
-      "label": "Calloo (2)",
+      "label": "Calloo",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Calloo:Calloo_1852",
       "width": 11200,
       "height": 7392,
@@ -81103,7 +81103,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Cruybeke:Cruybeke_1852",
-      "label": "Cruybeke (1)",
+      "label": "Cruybeke",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Cruybeke:Cruybeke_1852",
       "width": 11200,
       "height": 7458,
@@ -81363,7 +81363,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Cruybeke:Cruybeke_1852",
-      "label": "Cruybeke (2)",
+      "label": "Cruybeke",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Cruybeke:Cruybeke_1852",
       "width": 11200,
       "height": 7458,
@@ -81623,7 +81623,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Dacknam:Dacknam_1852",
-      "label": "Dacknam (1)",
+      "label": "Dacknam",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Dacknam:Dacknam_1852",
       "width": 11200,
       "height": 7471,
@@ -81821,7 +81821,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Dacknam:Dacknam_1852",
-      "label": "Dacknam (2)",
+      "label": "Dacknam",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Dacknam:Dacknam_1852",
       "width": 11200,
       "height": 7471,
@@ -82019,7 +82019,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Doel:Doel_1852",
-      "label": "Doel (1)",
+      "label": "Doel",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Doel:Doel_1852",
       "width": 11200,
       "height": 7495,
@@ -82161,7 +82161,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Doel:Doel_1852",
-      "label": "Doel (2)",
+      "label": "Doel",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Doel:Doel_1852",
       "width": 11200,
       "height": 7495,
@@ -82303,7 +82303,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Elversele:Elversele_1852",
-      "label": "Elversele (1)",
+      "label": "Elversele",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Elversele:Elversele_1852",
       "width": 11200,
       "height": 7494,
@@ -82547,7 +82547,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Elversele:Elversele_1852",
-      "label": "Elversele (2)",
+      "label": "Elversele",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Elversele:Elversele_1852",
       "width": 11200,
       "height": 7494,
@@ -82791,7 +82791,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Kieldrecht:Kieldrecht_1852",
-      "label": "Kieldrecht (1)",
+      "label": "Kieldrecht",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Kieldrecht:Kieldrecht_1852",
       "width": 11200,
       "height": 7482,
@@ -82915,7 +82915,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Kieldrecht:Kieldrecht_1852",
-      "label": "Kieldrecht (2)",
+      "label": "Kieldrecht",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Kieldrecht:Kieldrecht_1852",
       "width": 11200,
       "height": 7482,
@@ -83365,7 +83365,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Lokeren:Lokeren_1_2__1852",
-      "label": "Lokeren (2)",
+      "label": "Lokeren (1)",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Lokeren:Lokeren_1_2__1852",
       "width": 11200,
       "height": 7534,
@@ -83691,7 +83691,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Lokeren:Lokeren_2_2__1852",
-      "label": "Lokeren (3)",
+      "label": "Lokeren (2)",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Lokeren:Lokeren_2_2__1852",
       "width": 11200,
       "height": 7497,
@@ -83871,7 +83871,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Lokeren:Lokeren_2_2__1852",
-      "label": "Lokeren (4)",
+      "label": "Lokeren (2)",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Lokeren:Lokeren_2_2__1852",
       "width": 11200,
       "height": 7497,
@@ -84051,7 +84051,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Melsele:Melsele_1852",
-      "label": "Melsele (1)",
+      "label": "Melsele",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Melsele:Melsele_1852",
       "width": 11200,
       "height": 7461,
@@ -84793,7 +84793,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Melsele:Melsele_1852",
-      "label": "Melsele (2)",
+      "label": "Melsele",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Melsele:Melsele_1852",
       "width": 11200,
       "height": 7461,
@@ -85535,7 +85535,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Rupelmonde:Rupelmonde_1852",
-      "label": "Rupelmonde (1)",
+      "label": "Rupelmonde",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Rupelmonde:Rupelmonde_1852",
       "width": 11200,
       "height": 7461,
@@ -85715,7 +85715,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Rupelmonde:Rupelmonde_1852",
-      "label": "Rupelmonde (2)",
+      "label": "Rupelmonde",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Rupelmonde:Rupelmonde_1852",
       "width": 11200,
       "height": 7461,
@@ -85895,7 +85895,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Tamise:Tamise_1852",
-      "label": "Tamise (1)",
+      "label": "Tamise",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Tamise:Tamise_1852",
       "width": 11200,
       "height": 7518,
@@ -86123,7 +86123,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Tamise:Tamise_1852",
-      "label": "Tamise (2)",
+      "label": "Tamise",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Tamise:Tamise_1852",
       "width": 11200,
       "height": 7518,
@@ -86351,7 +86351,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Thielrode:Thielrode_1852",
-      "label": "Thielrode (1)",
+      "label": "Thielrode",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Thielrode:Thielrode_1852",
       "width": 11200,
       "height": 7487,
@@ -86557,7 +86557,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Thielrode:Thielrode_1852",
-      "label": "Thielrode (2)",
+      "label": "Thielrode",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Thielrode:Thielrode_1852",
       "width": 11200,
       "height": 7487,
@@ -86763,7 +86763,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Zwyndrecht:Zwyndrecht_1852",
-      "label": "Zwyndrecht (1)",
+      "label": "Zwyndrecht",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Zwyndrecht:Zwyndrecht_1852",
       "width": 11200,
       "height": 7422,
@@ -87213,7 +87213,7 @@
     },
     {
       "id": "gereduceerd_kadaster:SaintNicolas:Zwyndrecht:Zwyndrecht_1852",
-      "label": "Zwyndrecht (2)",
+      "label": "Zwyndrecht",
       "imageId": "gereduceerd_kadaster:SaintNicolas:Zwyndrecht:Zwyndrecht_1852",
       "width": 11200,
       "height": 7422,
@@ -87663,7 +87663,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Blaesveld:Blaesveld_1851",
-      "label": "Blaesveld (1)",
+      "label": "Blaesveld",
       "imageId": "gereduceerd_kadaster:Malines:Blaesveld:Blaesveld_1851",
       "width": 11200,
       "height": 7501,
@@ -88069,7 +88069,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Blaesveld:Blaesveld_1851",
-      "label": "Blaesveld (2)",
+      "label": "Blaesveld",
       "imageId": "gereduceerd_kadaster:Malines:Blaesveld:Blaesveld_1851",
       "width": 11200,
       "height": 7501,
@@ -88475,7 +88475,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Bornhem:Bornhem_1851",
-      "label": "Bornhem (1)",
+      "label": "Bornhem",
       "imageId": "gereduceerd_kadaster:Malines:Bornhem:Bornhem_1851",
       "width": 11200,
       "height": 7473,
@@ -89359,7 +89359,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Bornhem:Bornhem_1851",
-      "label": "Bornhem (2)",
+      "label": "Bornhem",
       "imageId": "gereduceerd_kadaster:Malines:Bornhem:Bornhem_1851",
       "width": 11200,
       "height": 7473,
@@ -90243,7 +90243,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Duffel:Duffel_1851",
-      "label": "Duffel (1)",
+      "label": "Duffel",
       "imageId": "gereduceerd_kadaster:Malines:Duffel:Duffel_1851",
       "width": 11200,
       "height": 7478,
@@ -91021,7 +91021,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Duffel:Duffel_1851",
-      "label": "Duffel (2)",
+      "label": "Duffel",
       "imageId": "gereduceerd_kadaster:Malines:Duffel:Duffel_1851",
       "width": 11200,
       "height": 7478,
@@ -91799,7 +91799,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Heffen:Heffen_1851",
-      "label": "Heffen (1)",
+      "label": "Heffen",
       "imageId": "gereduceerd_kadaster:Malines:Heffen:Heffen_1851",
       "width": 11200,
       "height": 7483,
@@ -92273,7 +92273,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Heffen:Heffen_1851",
-      "label": "Heffen (2)",
+      "label": "Heffen",
       "imageId": "gereduceerd_kadaster:Malines:Heffen:Heffen_1851",
       "width": 11200,
       "height": 7483,
@@ -92747,7 +92747,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Heyndonck:Heyndonck_1851",
-      "label": "Heyndonck (1)",
+      "label": "Heyndonck",
       "imageId": "gereduceerd_kadaster:Malines:Heyndonck:Heyndonck_1851",
       "width": 11200,
       "height": 7457,
@@ -93041,7 +93041,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Heyndonck:Heyndonck_1851",
-      "label": "Heyndonck (2)",
+      "label": "Heyndonck",
       "imageId": "gereduceerd_kadaster:Malines:Heyndonck:Heyndonck_1851",
       "width": 11200,
       "height": 7457,
@@ -93335,7 +93335,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Hingene:Hingene_1851",
-      "label": "Hingene (1)",
+      "label": "Hingene",
       "imageId": "gereduceerd_kadaster:Malines:Hingene:Hingene_1851",
       "width": 11200,
       "height": 7459,
@@ -94073,7 +94073,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Hingene:Hingene_1851",
-      "label": "Hingene (2)",
+      "label": "Hingene",
       "imageId": "gereduceerd_kadaster:Malines:Hingene:Hingene_1851",
       "width": 11200,
       "height": 7459,
@@ -94811,7 +94811,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Mariekerke:Mariekerke_1851",
-      "label": "Mariekerke (1)",
+      "label": "Mariekerke",
       "imageId": "gereduceerd_kadaster:Malines:Mariekerke:Mariekerke_1851",
       "width": 11200,
       "height": 7539,
@@ -95011,7 +95011,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Mariekerke:Mariekerke_1851",
-      "label": "Mariekerke (2)",
+      "label": "Mariekerke",
       "imageId": "gereduceerd_kadaster:Malines:Mariekerke:Mariekerke_1851",
       "width": 11200,
       "height": 7539,
@@ -95211,7 +95211,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Ruysbroeck:Ruysbroeck_1851",
-      "label": "Ruysbroeck (1)",
+      "label": "Ruysbroeck",
       "imageId": "gereduceerd_kadaster:Malines:Ruysbroeck:Ruysbroeck_1851",
       "width": 11200,
       "height": 7519,
@@ -95537,7 +95537,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Ruysbroeck:Ruysbroeck_1851",
-      "label": "Ruysbroeck (2)",
+      "label": "Ruysbroeck",
       "imageId": "gereduceerd_kadaster:Malines:Ruysbroeck:Ruysbroeck_1851",
       "width": 11200,
       "height": 7519,
@@ -95863,7 +95863,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Saint-Amand:Saint-Amand_1851",
-      "label": "Saint-Amand (1)",
+      "label": "Saint-Amand",
       "imageId": "gereduceerd_kadaster:Malines:Saint-Amand:Saint-Amand_1851",
       "width": 11200,
       "height": 7486,
@@ -96193,7 +96193,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Saint-Amand:Saint-Amand_1851",
-      "label": "Saint-Amand (2)",
+      "label": "Saint-Amand",
       "imageId": "gereduceerd_kadaster:Malines:Saint-Amand:Saint-Amand_1851",
       "width": 11200,
       "height": 7486,
@@ -96523,7 +96523,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Waelhem:Waelhem_1851",
-      "label": "Waelhem (1)",
+      "label": "Waelhem",
       "imageId": "gereduceerd_kadaster:Malines:Waelhem:Waelhem_1851",
       "width": 11200,
       "height": 7536,
@@ -96797,7 +96797,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Waelhem:Waelhem_1851",
-      "label": "Waelhem (2)",
+      "label": "Waelhem",
       "imageId": "gereduceerd_kadaster:Malines:Waelhem:Waelhem_1851",
       "width": 11200,
       "height": 7536,
@@ -97071,7 +97071,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Weert:Weert_1851",
-      "label": "Weert (1)",
+      "label": "Weert",
       "imageId": "gereduceerd_kadaster:Malines:Weert:Weert_1851",
       "width": 11200,
       "height": 7555,
@@ -97537,7 +97537,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Weert:Weert_1851",
-      "label": "Weert (2)",
+      "label": "Weert",
       "imageId": "gereduceerd_kadaster:Malines:Weert:Weert_1851",
       "width": 11200,
       "height": 7555,
@@ -98003,7 +98003,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Willebroeck:Willebroeck_1851",
-      "label": "Willebroeck (1)",
+      "label": "Willebroeck",
       "imageId": "gereduceerd_kadaster:Malines:Willebroeck:Willebroeck_1851",
       "width": 11200,
       "height": 7474,
@@ -98427,7 +98427,7 @@
     },
     {
       "id": "gereduceerd_kadaster:Malines:Willebroeck:Willebroeck_1851",
-      "label": "Willebroeck (2)",
+      "label": "Willebroeck",
       "imageId": "gereduceerd_kadaster:Malines:Willebroeck:Willebroeck_1851",
       "width": 11200,
       "height": 7474,
