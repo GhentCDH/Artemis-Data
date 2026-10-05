@@ -106,9 +106,20 @@ function convexHull(pointsInput: Position[]): Position[] {
   return [...lower, ...upper];
 }
 
-export function normalizeAnnotationPage(raw: Record<string, unknown>): Record<string, unknown> | null {
-  if (raw.type !== "AnnotationPage") return raw;
-  const annotation = (Array.isArray(raw.items) ? raw.items[0] : null) as Record<string, unknown> | null;
+/**
+ * One GeoreferencedMap per annotation in the page: a canvas can carry several
+ * georeferenced maps (e.g. a sheet with separately georeferenced segments).
+ */
+export function normalizeAnnotationPage(raw: Record<string, unknown>): Array<{ annotation: Record<string, unknown>; georeferencedMap: Record<string, unknown> }> {
+  if (raw.type !== "AnnotationPage") return [{ annotation: raw, georeferencedMap: raw }];
+  const items = Array.isArray(raw.items) ? raw.items as Array<Record<string, unknown>> : [];
+  return items.flatMap((annotation) => {
+    const georeferencedMap = normalizeAnnotation(annotation, raw);
+    return georeferencedMap ? [{ annotation, georeferencedMap }] : [];
+  });
+}
+
+function normalizeAnnotation(annotation: Record<string, unknown> | null, page: Record<string, unknown>): Record<string, unknown> | null {
   const target = annotation?.target as Record<string, unknown> | undefined;
   const source = target?.source as Record<string, unknown> | undefined;
   const selector = target?.selector as Record<string, unknown> | undefined;
@@ -127,7 +138,7 @@ export function normalizeAnnotationPage(raw: Record<string, unknown>): Record<st
   const georeferencedMap: Record<string, unknown> = {
     "@context": "https://schemas.allmaps.org/map/2/context.json",
     type: "GeoreferencedMap",
-    id: String(annotation.id ?? raw.id ?? ""),
+    id: String(annotation.id ?? page.id ?? ""),
     resource: {
       id: resourceId(source),
       height: source.height,
