@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-05T22:36:38.918Z",
+  "generatedAt": "2026-10-27T12:22:46.348Z",
   "layerId": "PrimitiefKadaster-verzamelbladen",
   "layerLabel": "Primitief kadaster",
-  "itemCount": 31,
+  "itemCount": 32,
   "items": [
     {
       "id": "04930d7222f43159",
@@ -510,6 +510,23 @@
         50.985067,
         4.028097,
         51.012809
+      ],
+      "canvasCount": 1,
+      "isVerzamelblad": true
+    },
+    {
+      "id": "4a5b56a30b7c12a7",
+      "type": "iiif-map",
+      "layerId": "PrimitiefKadaster-verzamelbladen",
+      "label": "Zele - Verzamelplan",
+      "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_06819_000",
+      "lon": 4.035525,
+      "lat": 51.066071,
+      "bounds": [
+        3.985675,
+        51.044703,
+        4.085375,
+        51.087439
       ],
       "canvasCount": 1,
       "isVerzamelblad": true

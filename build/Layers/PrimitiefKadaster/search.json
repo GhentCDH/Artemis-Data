@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-05T22:32:52.934Z",
+  "generatedAt": "2026-10-27T12:18:54.020Z",
   "layerId": "PrimitiefKadaster",
   "layerLabel": "Primitief kadaster",
-  "itemCount": 190,
+  "itemCount": 199,
   "items": [
     {
       "id": "422d4f293813d15d",
@@ -112,13 +112,13 @@
       "layerId": "PrimitiefKadaster",
       "label": "Appels - Sectie A",
       "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_06063_000",
-      "lon": 4.057752,
-      "lat": 51.035443,
+      "lon": 4.058465,
+      "lat": 51.035928,
       "bounds": [
-        4.041339,
-        51.02879,
-        4.074166,
-        51.042095
+        4.044774,
+        51.030308,
+        4.072155,
+        51.041547
       ],
       "canvasCount": 1,
       "isVerzamelblad": false
@@ -656,12 +656,12 @@
       "layerId": "PrimitiefKadaster",
       "label": "Burcht - Sectie A",
       "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_03329_000",
-      "lon": 4.340869,
+      "lon": 4.343475,
       "lat": 51.201945,
       "bounds": [
         4.324474,
         51.190671,
-        4.357264,
+        4.362475,
         51.213219
       ],
       "canvasCount": 3,
@@ -1229,6 +1229,57 @@
       "isVerzamelblad": false
     },
     {
+      "id": "dc36ea535722fa1a",
+      "type": "iiif-map",
+      "layerId": "PrimitiefKadaster",
+      "label": "HEFFEN - Sectie A",
+      "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_03013_000",
+      "lon": 4.420421,
+      "lat": 51.05802,
+      "bounds": [
+        4.413193,
+        51.050646,
+        4.427648,
+        51.065394
+      ],
+      "canvasCount": 2,
+      "isVerzamelblad": false
+    },
+    {
+      "id": "2c69352224e7323b",
+      "type": "iiif-map",
+      "layerId": "PrimitiefKadaster",
+      "label": "Heindonk - Sectie A",
+      "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_03263_000",
+      "lon": 4.395027,
+      "lat": 51.069937,
+      "bounds": [
+        4.382706,
+        51.061844,
+        4.407348,
+        51.07803
+      ],
+      "canvasCount": 2,
+      "isVerzamelblad": false
+    },
+    {
+      "id": "6bfb62f4e1bd041c",
+      "type": "iiif-map",
+      "layerId": "PrimitiefKadaster",
+      "label": "Heindonk - Sectie B",
+      "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_03264_000",
+      "lon": 4.414129,
+      "lat": 51.068743,
+      "bounds": [
+        4.404237,
+        51.061649,
+        4.424021,
+        51.075837
+      ],
+      "canvasCount": 2,
+      "isVerzamelblad": false
+    },
+    {
       "id": "da7f70dd3f90574c",
       "type": "iiif-map",
       "layerId": "PrimitiefKadaster",
@@ -1523,13 +1574,13 @@
       "layerId": "PrimitiefKadaster",
       "label": "Kalken - Sectie C-D",
       "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_06385_000",
-      "lon": 3.919604,
-      "lat": 51.038952,
+      "lon": 3.91974,
+      "lat": 51.038982,
       "bounds": [
-        3.913631,
-        51.035473,
-        3.925576,
-        51.042431
+        3.914853,
+        51.036559,
+        3.924626,
+        51.041405
       ],
       "canvasCount": 1,
       "isVerzamelblad": false
@@ -1744,15 +1795,15 @@
       "layerId": "PrimitiefKadaster",
       "label": "Lokeren - Sectie C",
       "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_06453_000",
-      "lon": 3.955212,
-      "lat": 51.091199,
+      "lon": 3.944758,
+      "lat": 51.083614,
       "bounds": [
-        3.927717,
-        51.085166,
+        3.906809,
+        51.069997,
         3.982707,
         51.097231
       ],
-      "canvasCount": 2,
+      "canvasCount": 6,
       "isVerzamelblad": false
     },
     {
@@ -1770,6 +1821,23 @@
         51.127325
       ],
       "canvasCount": 1,
+      "isVerzamelblad": false
+    },
+    {
+      "id": "4667e486856c027e",
+      "type": "iiif-map",
+      "layerId": "PrimitiefKadaster",
+      "label": "Lokeren - Sectie E",
+      "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_06454_000",
+      "lon": 3.989584,
+      "lat": 51.100503,
+      "bounds": [
+        3.97958,
+        51.096908,
+        3.999587,
+        51.104097
+      ],
+      "canvasCount": 3,
       "isVerzamelblad": false
     },
     {
@@ -1829,15 +1897,15 @@
       "layerId": "PrimitiefKadaster",
       "label": "Melle - Sectie B",
       "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_06505_000",
-      "lon": 3.793209,
-      "lat": 51.005373,
+      "lon": 3.788147,
+      "lat": 51.006803,
       "bounds": [
         3.775243,
-        50.994554,
-        3.811175,
+        50.997415,
+        3.80105,
         51.016191
       ],
-      "canvasCount": 2,
+      "canvasCount": 1,
       "isVerzamelblad": false
     },
     {
@@ -1863,13 +1931,13 @@
       "layerId": "PrimitiefKadaster",
       "label": "Melle - Sectie D",
       "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_06507_000",
-      "lon": 3.817532,
-      "lat": 50.987868,
+      "lon": 3.819857,
+      "lat": 50.987541,
       "bounds": [
-        3.798899,
-        50.974229,
-        3.836165,
-        51.001506
+        3.803542,
+        50.97542,
+        3.836171,
+        50.999662
       ],
       "canvasCount": 2,
       "isVerzamelblad": false
@@ -1982,13 +2050,13 @@
       "layerId": "PrimitiefKadaster",
       "label": "Oudegem - Sectie A",
       "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_06078_000",
-      "lon": 4.039985,
-      "lat": 51.008591,
+      "lon": 4.03961,
+      "lat": 51.008039,
       "bounds": [
-        4.026716,
-        50.999804,
-        4.053253,
-        51.017379
+        4.029778,
+        51.001375,
+        4.049442,
+        51.014703
       ],
       "canvasCount": 1,
       "isVerzamelblad": false
@@ -2135,12 +2203,12 @@
       "layerId": "PrimitiefKadaster",
       "label": "Ruisbroek - Sectie B",
       "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_03103_000",
-      "lon": 4.335292,
+      "lon": 4.335239,
       "lat": 51.083864,
       "bounds": [
         4.326179,
         51.076983,
-        4.344405,
+        4.344298,
         51.090744
       ],
       "canvasCount": 2,
@@ -2161,6 +2229,74 @@
         51.081754
       ],
       "canvasCount": 3,
+      "isVerzamelblad": false
+    },
+    {
+      "id": "bc4c4de91d1ef323",
+      "type": "iiif-map",
+      "layerId": "PrimitiefKadaster",
+      "label": "Rumst - Sectie A",
+      "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_03159_000",
+      "lon": 4.460418,
+      "lat": 51.087531,
+      "bounds": [
+        4.453308,
+        51.076395,
+        4.467529,
+        51.098667
+      ],
+      "canvasCount": 2,
+      "isVerzamelblad": false
+    },
+    {
+      "id": "fc6fa8811f7148a6",
+      "type": "iiif-map",
+      "layerId": "PrimitiefKadaster",
+      "label": "Rumst - Sectie B",
+      "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_03160_000",
+      "lon": 4.436681,
+      "lat": 51.087191,
+      "bounds": [
+        4.423353,
+        51.075167,
+        4.450009,
+        51.099214
+      ],
+      "canvasCount": 3,
+      "isVerzamelblad": false
+    },
+    {
+      "id": "b2dde03c23cd52fd",
+      "type": "iiif-map",
+      "layerId": "PrimitiefKadaster",
+      "label": "Rumst - Sectie C",
+      "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_03161_000",
+      "lon": 4.415287,
+      "lat": 51.089466,
+      "bounds": [
+        4.410755,
+        51.087224,
+        4.419819,
+        51.091707
+      ],
+      "canvasCount": 1,
+      "isVerzamelblad": false
+    },
+    {
+      "id": "dc746428dc2b6372",
+      "type": "iiif-map",
+      "layerId": "PrimitiefKadaster",
+      "label": "Rumst - Sectie D",
+      "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_03162_000",
+      "lon": 4.427091,
+      "lat": 51.076723,
+      "bounds": [
+        4.423334,
+        51.075353,
+        4.430848,
+        51.078093
+      ],
+      "canvasCount": 1,
       "isVerzamelblad": false
     },
     {
@@ -2569,6 +2705,23 @@
         51.144532
       ],
       "canvasCount": 6,
+      "isVerzamelblad": false
+    },
+    {
+      "id": "222300524ded7603",
+      "type": "iiif-map",
+      "layerId": "PrimitiefKadaster",
+      "label": "Terhagen - Sectie A",
+      "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_03164_000",
+      "lon": 4.396535,
+      "lat": 51.083942,
+      "bounds": [
+        4.38801,
+        51.079085,
+        4.40506,
+        51.088799
+      ],
+      "canvasCount": 1,
       "isVerzamelblad": false
     },
     {
@@ -3223,13 +3376,13 @@
       "layerId": "PrimitiefKadaster",
       "label": "Zwijndrecht - Sectie N",
       "manifestUrl": "https://iiif.ghentcdh.ugent.be/iiif/manifests/primitief_kadaster:550_0001_000_03327_000",
-      "lon": 4.366016,
-      "lat": 51.22296,
+      "lon": 4.366746,
+      "lat": 51.222424,
       "bounds": [
-        4.339364,
-        51.209828,
-        4.392667,
-        51.236091
+        4.341412,
+        51.208636,
+        4.39208,
+        51.236212
       ],
       "canvasCount": 5,
       "isVerzamelblad": false
